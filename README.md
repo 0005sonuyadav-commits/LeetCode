@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
