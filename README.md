@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
