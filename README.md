@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
