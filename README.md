@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0056-merge-intervals) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
