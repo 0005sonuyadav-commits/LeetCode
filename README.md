@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0152-maximum-product-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Search
