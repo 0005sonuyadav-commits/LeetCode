@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0152-maximum-product-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
