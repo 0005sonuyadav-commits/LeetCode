@@ -22,17 +22,5 @@ class Solution {
             }
         }
         return false;
-
-
-
-
-        // if(nums1[0]%2==0 || nums2[0]%2 !=0){
-        //     return true;
-        // }
-        // for(int i=0;i<n;i++){
-        //     if(nums1[i]%2==0){
-        //         return true;
-        //     }
-        // }return false;
     }
 }
