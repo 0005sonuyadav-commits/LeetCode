@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 ## Binary Search
