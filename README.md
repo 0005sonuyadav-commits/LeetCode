@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0835-image-overlap](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0835-image-overlap](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
