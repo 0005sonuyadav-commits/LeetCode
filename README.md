@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1927-sum-game) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
