@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
