@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -297,8 +301,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
