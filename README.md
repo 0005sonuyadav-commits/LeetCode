@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/0005sonuyadav-commits/LeetCode/tree/master/0344-reverse-string) |
